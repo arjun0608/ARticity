@@ -1,0 +1,4 @@
+Runner.prototype
+var defRunner=Runner.prototype.gameOver
+Runner.prototype.gameOver=funtion(){console.log("Fuck u Chrome")}
+Runner.instance_.setSpeed(15000)

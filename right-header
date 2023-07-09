@@ -1,0 +1,17 @@
+ <div class="right-header">
+            <div class="p-drp">
+                <button class="p-drpbtn"><?php echo $uname ?></button>
+                <div class="d-c">
+                    <div class="p-drp-c">
+                        <a href="edit_profile.php">Profile</a>
+                        <a href="my_purchases.php">My Purchases</a>
+                        <a href="my_sales.php">My Sales</a>
+                        <a href="wishlist.php">My Wishlist</a>
+                        <a href="logout.php">LogOut</a>
+                    </div>
+                </div>
+            </div>
+            <!-- <span><?php echo $uname ?></span> -->
+            <img src="uploads/<?php echo $photo; ?>">
+            <!-- <img src="Image/Martin Garrix.jpg" alt=""> -->
+        </div>

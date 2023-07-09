@@ -1,0 +1,38 @@
+<div class="left-header-content">
+                <ul>
+                    <li><a href="index.php">Home</a></li>
+                    <li>
+                        <div class="dropdown">
+                            <button class="dropbtn">Service</button> 
+                            <div class="dropdown-content">
+                                <a href="buy.php">Buy</a>
+                                <a href="sell.php">Sell</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li> 
+                        <div class="dropdown1">
+                            <button class="dropbtn1">Upload</button> 
+                            <div class="dropdown-content1">
+                                <a href="u_music.php">Music</a>
+                                <a href="u_m_photo.php">Modelling</a>
+                                <a href="#">Dance</a>
+                                <a href="#">Photography</a>
+                                <a href="#">Singing</a>
+                                <a href="#">Gaming</a>
+                                <a href="#">Coding</a>
+                                <a href="#">News</a>
+                                <a href="#">Makeup</a>
+                                <a href="#">Fashion Designing</a>
+                                <a href="#">Vlogging</a>
+                                <a href="#">Blogging</a>
+                                <a href="#">Comedy</a>
+                                <a href="#">Painting</a>
+                                <a href="#">Sketching</a>
+                                <a href="#">Calligraphy</a>
+                            </div>
+                        </div>
+                    </li>
+                    <li><a href="about_us.php">About Us</a></li>
+                </ul>
+            </div> 

@@ -1,0 +1,58 @@
+/* Montserrat Alternates */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&display=swap');
+
+/* Norican */
+@import url('https://fonts.googleapis.com/css2?family=Norican&display=swap');
+
+/* Alegreya Sans SC */
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC&display=swap');
+
+/* Markazi Text */
+@import url('https://fonts.googleapis.com/css2?family=Markazi+Text&display=swap');
+
+/* Great Vibes */
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+/* Kaushan Script */
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+
+/* Maven Pro */
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap');
+
+/* Sora */
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
+
+/* Barlow Semi Condensed */
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@300&display=swap');
+
+/* Abel */
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
+/* Ysabeau (thin) */
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau:wght@100&display=swap');
+
+/* Dancing Script */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+/* Rock Salt */
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+
+/* Rajdhani */
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani&display=swap');
+
+:root {
+    --font1: 'Montserrat Alternates', sans-serif;
+    --font2: 'Norican', cursive;
+    --font3: 'Alegreya Sans SC', sans-serif;
+    --font4: 'Markazi Text', serif;
+    --font5: 'Great Vibes', cursive;
+    --font6: 'Kaushan Script', cursive;
+    --font7: 'Maven Pro', sans-serif;
+    --font8: 'Sora', sans-serif;
+    --font9: 'Barlow Semi Condensed', sans-serif;
+    --font10: 'Abel', sans-serif;
+    --font11: 'Ysabeau', sans-serif;
+    --font12: 'Dancing Script', cursive;
+    --font13: 'Rock Salt', cursive;
+    --font14: 'Rajdhani', sans-serif;
+}
